@@ -1,6 +1,11 @@
 import java.util.Scanner;
 import java.util.Random;
 
+/*
+ * From Reddit's Daily Programmer
+ * Link: https://www.reddit.com/r/dailyprogrammer/comments/8s0cy1/20180618_challenge_364_easy_create_a_dice_roller/?st=jiqdr6m3&sh=cceb2dc0
+ */
+
 public class DiceRoller {
    public static void main (String[] args) {
       Scanner scanInt = new Scanner (System.in);
